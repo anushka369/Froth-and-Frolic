@@ -1,4 +1,4 @@
-# Froth & Frolic Café Website
+# Froth & Frolic Café ☕
 
 Welcome to the **Froth & Frolic** café website project! This is a responsive and visually appealing website created to showcase a café's landing page, menu, and contact information.
 
