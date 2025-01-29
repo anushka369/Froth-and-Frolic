@@ -47,7 +47,17 @@ Welcome to the **Froth & Frolic** café website project! This is a responsive an
 
 ## 📂 Project Structure
 
- ├── Froth-and-Frolic ├── index.html # Landing page ├── about.html # About page ├── menu.html # Menu page ├── contact.html # Contact page ├── styles.css # Stylesheet for the entire site ├── images/ # Folder containing all images ├── menu/ # Images for menu items ├── README.md # Project documentation
+```
+Froth-and-Frolic/
+│
+├── index.html       # Landing page
+├── about.html       # About page
+├── menu.html        # Menu page
+├── contact.html     # Contact page
+├── styles.css       # Stylesheet for the entire site
+├── images/          # Folder containing all images
+└── README.md        # Project documentation
+```
 
 ---
 
