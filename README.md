@@ -47,7 +47,7 @@ Welcome to the **Froth & Frolic** café website project! This is a responsive an
 
 ## 📂 Project Structure
 
- ├── froth-frolic ├── index.html # Landing page ├── about.html # About page ├── menu.html # Menu page ├── contact.html # Contact page ├── styles.css # Stylesheet for the entire site ├── images/ # Folder containing all images ├── menu/ # Images for menu items ├── README.md # Project documentation
+ ├── Froth-and-Frolic ├── index.html # Landing page ├── about.html # About page ├── menu.html # Menu page ├── contact.html # Contact page ├── styles.css # Stylesheet for the entire site ├── images/ # Folder containing all images ├── menu/ # Images for menu items ├── README.md # Project documentation
 
 ---
 
@@ -55,11 +55,11 @@ Welcome to the **Froth & Frolic** café website project! This is a responsive an
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/froth-frolic.git
+   git clone https://github.com/anushka369/Froth-and-Frolic.git
    
 2. Open the project folder:
    ```bash
-   cd froth-frolic
+   cd Froth-and-Frolic
    
 3. Open index.html in your favorite browser to view the website.
 
