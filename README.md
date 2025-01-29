@@ -56,7 +56,15 @@ Welcome to the **Froth & Frolic** café website project! This is a responsive an
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/yourusername/froth-frolic.git
+   
 2. Open the project folder:
    ```bash
    cd froth-frolic
+   
 3. Open index.html in your favorite browser to view the website.
+
+---
+
+## Author ✏️
+Developed by **Anushka**. <br>
+📧 [ab8991@srmist.edu.in](mailto:ab8991@srmist.edu.in)
