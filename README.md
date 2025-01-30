@@ -75,6 +75,6 @@ Froth-and-Frolic/
 
 ---
 
-## Author ✏️
+## ✏ Author 
 Developed by **Anushka**. <br>
 📧 [ab8991@srmist.edu.in](mailto:ab8991@srmist.edu.in)
